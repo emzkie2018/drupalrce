@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @emzkie2018 Sign out
-2
-56 17 allyshka/exploits
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-exploits/drupal/41564.php
-15dff8d  on Mar 24, 2017
- allyshka Added Drupal Services 7.x exploit
-     
-360 lines (299 sloc)  9.51 KB
 # Exploit Title: Drupal 7.x Services Module Remote Code Execution
 # Vendor Homepage: https://www.drupal.org/project/services
 # Exploit Author: Charles FOL
@@ -316,16 +299,3 @@ function storestr($name, $data)
     file_put_contents($filename, pretty($data));
     x("Stored $name post information in $filename");
 }
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
