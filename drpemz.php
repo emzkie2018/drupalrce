@@ -1,9 +1,9 @@
-# Exploit Title: Drupal 7.x Services Module Remote Code Execution
+# Exploit Title: Drupal 7.x Services Module RCE by str4what-s4nj1
 # Vendor Homepage: https://www.drupal.org/project/services
-# Exploit Author: Charles FOL
+# Exploit Author: Str4what-S4nj1
 # Contact: https://twitter.com/ambionics
 # Website: https://www.ambionics.io/blog/drupal-services-module-rce
-# Exploit Editor: aLLy (@iamsecurity)
+# Exploit Editor: aLLy (@str4what-s4nj1)
 
 
 #!/usr/bin/php
